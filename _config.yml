@@ -30,8 +30,8 @@ disqus_shortname: myshortname
 #   secondary: 2c3e50 #FD6E8A
 #   secondary-dark: 233140 #A2122F
 color:
-  primary: 128f76
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 0f7864 #128f76
+  primary-rgb: "24,188,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -40,7 +40,7 @@ footer:
   copyright: tlt hkm
   location: Hamburg
   social: Around the Web
-  credits: Credits
+  # credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
